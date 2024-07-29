@@ -122,6 +122,9 @@ Predict the number of traffic accidents for a given year and month.
         "prediction": <float>
     }
     ```
+I done this using Postman
+![WhatsApp Image 2024-07-30 at 00 12 03_a0bd4f27](https://github.com/user-attachments/assets/9712c4ee-c8c7-4039-85d7-649d5006145b)
+
 
 ## Visualizations
 
@@ -133,8 +136,10 @@ The application includes several visualizations to display the data and model pr
 
 ### Example Visualizations:
 
-[Historical Data](historial no.of accidents.png)
-[Model Prediction](model prediction.png)
+[Historical Data]![historial no of accidents](https://github.com/user-attachments/assets/ceb148a4-be75-4e42-974a-a2afc181033d)
+
+[Model Prediction]![model prediction](https://github.com/user-attachments/assets/a424d839-197c-4d9b-939a-ebe7d2e8aa6f)
+
 
 ## Contributing
 
