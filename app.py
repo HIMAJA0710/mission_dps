@@ -112,3 +112,13 @@ plt.ylabel('Number of Accidents')
 plt.legend()
 plt.grid(True)
 st.pyplot(plt)
+import pickle
+
+# Train the linear regression model
+model = LinearRegression()
+model.fit(X_train, y_train)
+
+# Save the trained model
+with open('model.pkl', 'wb') as file:
+    pickle.dump(model, file)
+print("Model saved successfully.")
