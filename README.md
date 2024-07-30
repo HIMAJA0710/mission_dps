@@ -136,9 +136,9 @@ The application includes several visualizations to display the data and model pr
 
 ### Example Visualizations:
 
-[Historical Data]![historial no of accidents](https://github.com/user-attachments/assets/ceb148a4-be75-4e42-974a-a2afc181033d)
+[Historical Data]![historial no of accidents]![image](https://github.com/user-attachments/assets/b10b6b23-17e7-48fa-a8da-e644fad512aa)
 
-[Model Prediction]![model prediction](https://github.com/user-attachments/assets/a424d839-197c-4d9b-939a-ebe7d2e8aa6f)
+[Model Prediction]![model prediction]![image](https://github.com/user-attachments/assets/87b4cda9-e3f2-4c31-a310-a77ef55b72f4)
 
 
 ## Contributing
