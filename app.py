@@ -7,14 +7,14 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error
 import warnings
-
+import os
 warnings.filterwarnings('ignore')
 
 # Streamlit app title
 st.title('DPS Challenge Mission 1')
 
 # Load data
-data_path = r"C:\Users\amide\OneDrive\Documents\GitHub\mission_dps\dataset.csv"
+data_path =os.path.join('dataset.csv')
 try:
     df_initial = pd.read_csv(data_path)
 except FileNotFoundError:
