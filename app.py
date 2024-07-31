@@ -14,7 +14,7 @@ warnings.filterwarnings('ignore')
 st.title('DPS Challenge Mission 1')
 
 # Load data
-data_path = r"mission_dps\dataset.csv"
+data_path = r"C:\Users\amide\OneDrive\Documents\GitHub\mission_dps\dataset.csv"
 try:
     df_initial = pd.read_csv(data_path)
 except FileNotFoundError:
